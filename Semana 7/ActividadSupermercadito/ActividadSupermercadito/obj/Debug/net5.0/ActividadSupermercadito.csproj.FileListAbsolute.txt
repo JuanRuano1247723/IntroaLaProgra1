@@ -1,0 +1,16 @@
+C:\Users\04dan\source\repos\ActividadSupermercadito\ActividadSupermercadito\bin\Debug\net5.0\ActividadSupermercadito.exe
+C:\Users\04dan\source\repos\ActividadSupermercadito\ActividadSupermercadito\bin\Debug\net5.0\ActividadSupermercadito.deps.json
+C:\Users\04dan\source\repos\ActividadSupermercadito\ActividadSupermercadito\bin\Debug\net5.0\ActividadSupermercadito.runtimeconfig.json
+C:\Users\04dan\source\repos\ActividadSupermercadito\ActividadSupermercadito\bin\Debug\net5.0\ActividadSupermercadito.runtimeconfig.dev.json
+C:\Users\04dan\source\repos\ActividadSupermercadito\ActividadSupermercadito\bin\Debug\net5.0\ActividadSupermercadito.dll
+C:\Users\04dan\source\repos\ActividadSupermercadito\ActividadSupermercadito\bin\Debug\net5.0\ref\ActividadSupermercadito.dll
+C:\Users\04dan\source\repos\ActividadSupermercadito\ActividadSupermercadito\bin\Debug\net5.0\ActividadSupermercadito.pdb
+C:\Users\04dan\source\repos\ActividadSupermercadito\ActividadSupermercadito\obj\Debug\net5.0\ActividadSupermercadito.csproj.AssemblyReference.cache
+C:\Users\04dan\source\repos\ActividadSupermercadito\ActividadSupermercadito\obj\Debug\net5.0\ActividadSupermercadito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\04dan\source\repos\ActividadSupermercadito\ActividadSupermercadito\obj\Debug\net5.0\ActividadSupermercadito.AssemblyInfoInputs.cache
+C:\Users\04dan\source\repos\ActividadSupermercadito\ActividadSupermercadito\obj\Debug\net5.0\ActividadSupermercadito.AssemblyInfo.cs
+C:\Users\04dan\source\repos\ActividadSupermercadito\ActividadSupermercadito\obj\Debug\net5.0\ActividadSupermercadito.csproj.CoreCompileInputs.cache
+C:\Users\04dan\source\repos\ActividadSupermercadito\ActividadSupermercadito\obj\Debug\net5.0\ActividadSupermercadito.dll
+C:\Users\04dan\source\repos\ActividadSupermercadito\ActividadSupermercadito\obj\Debug\net5.0\ref\ActividadSupermercadito.dll
+C:\Users\04dan\source\repos\ActividadSupermercadito\ActividadSupermercadito\obj\Debug\net5.0\ActividadSupermercadito.pdb
+C:\Users\04dan\source\repos\ActividadSupermercadito\ActividadSupermercadito\obj\Debug\net5.0\ActividadSupermercadito.genruntimeconfig.cache

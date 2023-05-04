@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Actividad100NumerosFor/1.0.0": {
+        "runtime": {
+          "Actividad100NumerosFor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Actividad100NumerosFor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
