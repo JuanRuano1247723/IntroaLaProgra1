@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Intro Progra, Angel Pérez/1.0.0": {
+        "runtime": {
+          "Intro Progra, Angel Pérez.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Intro Progra, Angel Pérez/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

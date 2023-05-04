@@ -1,0 +1,14 @@
+C:\Users\perez\Desktop\intro a la progra\Intro Progra, Angel Pérez\Intro Progra, Angel Pérez\bin\Debug\netcoreapp3.1\Intro Progra, Angel Pérez.exe
+C:\Users\perez\Desktop\intro a la progra\Intro Progra, Angel Pérez\Intro Progra, Angel Pérez\bin\Debug\netcoreapp3.1\Intro Progra, Angel Pérez.deps.json
+C:\Users\perez\Desktop\intro a la progra\Intro Progra, Angel Pérez\Intro Progra, Angel Pérez\bin\Debug\netcoreapp3.1\Intro Progra, Angel Pérez.runtimeconfig.json
+C:\Users\perez\Desktop\intro a la progra\Intro Progra, Angel Pérez\Intro Progra, Angel Pérez\bin\Debug\netcoreapp3.1\Intro Progra, Angel Pérez.runtimeconfig.dev.json
+C:\Users\perez\Desktop\intro a la progra\Intro Progra, Angel Pérez\Intro Progra, Angel Pérez\bin\Debug\netcoreapp3.1\Intro Progra, Angel Pérez.dll
+C:\Users\perez\Desktop\intro a la progra\Intro Progra, Angel Pérez\Intro Progra, Angel Pérez\bin\Debug\netcoreapp3.1\Intro Progra, Angel Pérez.pdb
+C:\Users\perez\Desktop\intro a la progra\Intro Progra, Angel Pérez\Intro Progra, Angel Pérez\obj\Debug\netcoreapp3.1\Intro Progra, Angel Pérez.csproj.AssemblyReference.cache
+C:\Users\perez\Desktop\intro a la progra\Intro Progra, Angel Pérez\Intro Progra, Angel Pérez\obj\Debug\netcoreapp3.1\Intro Progra, Angel Pérez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perez\Desktop\intro a la progra\Intro Progra, Angel Pérez\Intro Progra, Angel Pérez\obj\Debug\netcoreapp3.1\Intro Progra, Angel Pérez.AssemblyInfoInputs.cache
+C:\Users\perez\Desktop\intro a la progra\Intro Progra, Angel Pérez\Intro Progra, Angel Pérez\obj\Debug\netcoreapp3.1\Intro Progra, Angel Pérez.AssemblyInfo.cs
+C:\Users\perez\Desktop\intro a la progra\Intro Progra, Angel Pérez\Intro Progra, Angel Pérez\obj\Debug\netcoreapp3.1\Intro Progra, Angel Pérez.csproj.CoreCompileInputs.cache
+C:\Users\perez\Desktop\intro a la progra\Intro Progra, Angel Pérez\Intro Progra, Angel Pérez\obj\Debug\netcoreapp3.1\Intro Progra, Angel Pérez.dll
+C:\Users\perez\Desktop\intro a la progra\Intro Progra, Angel Pérez\Intro Progra, Angel Pérez\obj\Debug\netcoreapp3.1\Intro Progra, Angel Pérez.pdb
+C:\Users\perez\Desktop\intro a la progra\Intro Progra, Angel Pérez\Intro Progra, Angel Pérez\obj\Debug\netcoreapp3.1\Intro Progra, Angel Pérez.genruntimeconfig.cache
