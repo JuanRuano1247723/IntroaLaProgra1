@@ -1,0 +1,16 @@
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\INTRODUCCIÓN A SISTEMAS\ActividadEleccionMultiple\ActividadSwitch\ActividadSwitch\bin\Debug\net5.0\ActividadSwitch.exe
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\INTRODUCCIÓN A SISTEMAS\ActividadEleccionMultiple\ActividadSwitch\ActividadSwitch\bin\Debug\net5.0\ActividadSwitch.deps.json
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\INTRODUCCIÓN A SISTEMAS\ActividadEleccionMultiple\ActividadSwitch\ActividadSwitch\bin\Debug\net5.0\ActividadSwitch.runtimeconfig.json
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\INTRODUCCIÓN A SISTEMAS\ActividadEleccionMultiple\ActividadSwitch\ActividadSwitch\bin\Debug\net5.0\ActividadSwitch.runtimeconfig.dev.json
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\INTRODUCCIÓN A SISTEMAS\ActividadEleccionMultiple\ActividadSwitch\ActividadSwitch\bin\Debug\net5.0\ActividadSwitch.dll
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\INTRODUCCIÓN A SISTEMAS\ActividadEleccionMultiple\ActividadSwitch\ActividadSwitch\bin\Debug\net5.0\ref\ActividadSwitch.dll
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\INTRODUCCIÓN A SISTEMAS\ActividadEleccionMultiple\ActividadSwitch\ActividadSwitch\bin\Debug\net5.0\ActividadSwitch.pdb
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\INTRODUCCIÓN A SISTEMAS\ActividadEleccionMultiple\ActividadSwitch\ActividadSwitch\obj\Debug\net5.0\ActividadSwitch.csproj.AssemblyReference.cache
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\INTRODUCCIÓN A SISTEMAS\ActividadEleccionMultiple\ActividadSwitch\ActividadSwitch\obj\Debug\net5.0\ActividadSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\INTRODUCCIÓN A SISTEMAS\ActividadEleccionMultiple\ActividadSwitch\ActividadSwitch\obj\Debug\net5.0\ActividadSwitch.AssemblyInfoInputs.cache
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\INTRODUCCIÓN A SISTEMAS\ActividadEleccionMultiple\ActividadSwitch\ActividadSwitch\obj\Debug\net5.0\ActividadSwitch.AssemblyInfo.cs
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\INTRODUCCIÓN A SISTEMAS\ActividadEleccionMultiple\ActividadSwitch\ActividadSwitch\obj\Debug\net5.0\ActividadSwitch.csproj.CoreCompileInputs.cache
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\INTRODUCCIÓN A SISTEMAS\ActividadEleccionMultiple\ActividadSwitch\ActividadSwitch\obj\Debug\net5.0\ActividadSwitch.dll
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\INTRODUCCIÓN A SISTEMAS\ActividadEleccionMultiple\ActividadSwitch\ActividadSwitch\obj\Debug\net5.0\ref\ActividadSwitch.dll
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\INTRODUCCIÓN A SISTEMAS\ActividadEleccionMultiple\ActividadSwitch\ActividadSwitch\obj\Debug\net5.0\ActividadSwitch.pdb
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\INTRODUCCIÓN A SISTEMAS\ActividadEleccionMultiple\ActividadSwitch\ActividadSwitch\obj\Debug\net5.0\ActividadSwitch.genruntimeconfig.cache

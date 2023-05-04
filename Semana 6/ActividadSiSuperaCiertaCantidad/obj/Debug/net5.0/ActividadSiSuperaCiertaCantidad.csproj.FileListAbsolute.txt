@@ -1,0 +1,16 @@
+C:\Users\04dan\source\repos\ActividadSiSuperaCiertaCantidad\ActividadSiSuperaCiertaCantidad\bin\Debug\net5.0\ActividadSiSuperaCiertaCantidad.exe
+C:\Users\04dan\source\repos\ActividadSiSuperaCiertaCantidad\ActividadSiSuperaCiertaCantidad\bin\Debug\net5.0\ActividadSiSuperaCiertaCantidad.deps.json
+C:\Users\04dan\source\repos\ActividadSiSuperaCiertaCantidad\ActividadSiSuperaCiertaCantidad\bin\Debug\net5.0\ActividadSiSuperaCiertaCantidad.runtimeconfig.json
+C:\Users\04dan\source\repos\ActividadSiSuperaCiertaCantidad\ActividadSiSuperaCiertaCantidad\bin\Debug\net5.0\ActividadSiSuperaCiertaCantidad.runtimeconfig.dev.json
+C:\Users\04dan\source\repos\ActividadSiSuperaCiertaCantidad\ActividadSiSuperaCiertaCantidad\bin\Debug\net5.0\ActividadSiSuperaCiertaCantidad.dll
+C:\Users\04dan\source\repos\ActividadSiSuperaCiertaCantidad\ActividadSiSuperaCiertaCantidad\bin\Debug\net5.0\ref\ActividadSiSuperaCiertaCantidad.dll
+C:\Users\04dan\source\repos\ActividadSiSuperaCiertaCantidad\ActividadSiSuperaCiertaCantidad\bin\Debug\net5.0\ActividadSiSuperaCiertaCantidad.pdb
+C:\Users\04dan\source\repos\ActividadSiSuperaCiertaCantidad\ActividadSiSuperaCiertaCantidad\obj\Debug\net5.0\ActividadSiSuperaCiertaCantidad.csproj.AssemblyReference.cache
+C:\Users\04dan\source\repos\ActividadSiSuperaCiertaCantidad\ActividadSiSuperaCiertaCantidad\obj\Debug\net5.0\ActividadSiSuperaCiertaCantidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\04dan\source\repos\ActividadSiSuperaCiertaCantidad\ActividadSiSuperaCiertaCantidad\obj\Debug\net5.0\ActividadSiSuperaCiertaCantidad.AssemblyInfoInputs.cache
+C:\Users\04dan\source\repos\ActividadSiSuperaCiertaCantidad\ActividadSiSuperaCiertaCantidad\obj\Debug\net5.0\ActividadSiSuperaCiertaCantidad.AssemblyInfo.cs
+C:\Users\04dan\source\repos\ActividadSiSuperaCiertaCantidad\ActividadSiSuperaCiertaCantidad\obj\Debug\net5.0\ActividadSiSuperaCiertaCantidad.csproj.CoreCompileInputs.cache
+C:\Users\04dan\source\repos\ActividadSiSuperaCiertaCantidad\ActividadSiSuperaCiertaCantidad\obj\Debug\net5.0\ActividadSiSuperaCiertaCantidad.dll
+C:\Users\04dan\source\repos\ActividadSiSuperaCiertaCantidad\ActividadSiSuperaCiertaCantidad\obj\Debug\net5.0\ref\ActividadSiSuperaCiertaCantidad.dll
+C:\Users\04dan\source\repos\ActividadSiSuperaCiertaCantidad\ActividadSiSuperaCiertaCantidad\obj\Debug\net5.0\ActividadSiSuperaCiertaCantidad.pdb
+C:\Users\04dan\source\repos\ActividadSiSuperaCiertaCantidad\ActividadSiSuperaCiertaCantidad\obj\Debug\net5.0\ActividadSiSuperaCiertaCantidad.genruntimeconfig.cache
