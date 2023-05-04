@@ -1,0 +1,16 @@
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 9\CafeteraMetodos\CafeteraMetodos\bin\Debug\net5.0\CafeteraMetodos.exe
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 9\CafeteraMetodos\CafeteraMetodos\bin\Debug\net5.0\CafeteraMetodos.deps.json
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 9\CafeteraMetodos\CafeteraMetodos\bin\Debug\net5.0\CafeteraMetodos.runtimeconfig.json
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 9\CafeteraMetodos\CafeteraMetodos\bin\Debug\net5.0\CafeteraMetodos.runtimeconfig.dev.json
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 9\CafeteraMetodos\CafeteraMetodos\bin\Debug\net5.0\CafeteraMetodos.dll
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 9\CafeteraMetodos\CafeteraMetodos\bin\Debug\net5.0\ref\CafeteraMetodos.dll
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 9\CafeteraMetodos\CafeteraMetodos\bin\Debug\net5.0\CafeteraMetodos.pdb
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 9\CafeteraMetodos\CafeteraMetodos\obj\Debug\net5.0\CafeteraMetodos.csproj.AssemblyReference.cache
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 9\CafeteraMetodos\CafeteraMetodos\obj\Debug\net5.0\CafeteraMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 9\CafeteraMetodos\CafeteraMetodos\obj\Debug\net5.0\CafeteraMetodos.AssemblyInfoInputs.cache
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 9\CafeteraMetodos\CafeteraMetodos\obj\Debug\net5.0\CafeteraMetodos.AssemblyInfo.cs
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 9\CafeteraMetodos\CafeteraMetodos\obj\Debug\net5.0\CafeteraMetodos.csproj.CoreCompileInputs.cache
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 9\CafeteraMetodos\CafeteraMetodos\obj\Debug\net5.0\CafeteraMetodos.dll
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 9\CafeteraMetodos\CafeteraMetodos\obj\Debug\net5.0\ref\CafeteraMetodos.dll
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 9\CafeteraMetodos\CafeteraMetodos\obj\Debug\net5.0\CafeteraMetodos.pdb
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 9\CafeteraMetodos\CafeteraMetodos\obj\Debug\net5.0\CafeteraMetodos.genruntimeconfig.cache

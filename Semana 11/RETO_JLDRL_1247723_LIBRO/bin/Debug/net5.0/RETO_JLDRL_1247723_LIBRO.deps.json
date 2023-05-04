@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RETO_JLDRL_1247723_LIBRO/1.0.0": {
+        "runtime": {
+          "RETO_JLDRL_1247723_LIBRO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RETO_JLDRL_1247723_LIBRO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
