@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TempMatr_JLDRL_ASPC_1247723_1135323/1.0.0": {
+        "runtime": {
+          "TempMatr_JLDRL_ASPC_1247723_1135323.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TempMatr_JLDRL_ASPC_1247723_1135323/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
